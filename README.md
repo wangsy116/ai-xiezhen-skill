@@ -1,17 +1,31 @@
 # ai-xiezhen-skill
 
-一张图片就能生成N套写真图片的提示词skill！可以用来给自己、朋友生成写真图片，傻瓜式设计，老人和儿童都能快速上手使用，特别适合网红、服装模特、摄影师使用！
+使用一张五官图片或照片作为参考图就能生成N套写真图片。使用这个提示词skill不用费尽脑子的写提示词，直接上传图片提交生成，老人和儿童都能学会，真正的傻瓜式提示词skill！
 
-你敢相信吗，使用免费的Ai软件，就能生成一套写真图片，而你只需要用到下面的提示词！
+我敢这么说，这个提示词skill能改变AI的未来！因为它只需要一张人像五官图片或者其它图片就能直接生成N套图片，即使你是一个AI初学者也能很快就能上手。
 
-有了这个提示词，你可以用一张自己的生活照，或者Ai生成的汉服照、婚纱照就能生成一套或者多套的汉服写真照片和结婚写真照片！
+这个skill可以用来给自己、给朋友用来生成写真图片，尤其是适合网红、服装模特、摄影师。
 
-今后你再也不需要花钱去拍写真了，看到喜欢的装造或穿搭图片，只需要一张参考图片，粘贴下面的提示词，直接提交就能生成一套写真图片，完全不需要再绞尽脑汁的想着怎么写提示词。
+你可以用来给女朋友生成写真；
 
-是不是很简单，很强大！
+可以用来给已去世的朋友、同学、亲人生成照片；
 
-有了这个提示词，你就可以为女友、为家人制作图片，甚至你也可以为逝去的亲人制作写真图片。
+可以将喜欢的壁纸作为参考图生成更多相同的壁纸……
 
-该提示词在豆包、trae、workbuddy都可以用，去公众号文章获取：https://mp.weixin.qq.com/s/u89CoLpn81UoWWPvpLgayA
+大胆的发挥你的想象！
 
-技能已上线workbuddy，生成效果更好，在技能中搜索【AI图片写真】安装使用：https://www.workbuddy.cn/share/asset?shareCode=PzbSpeot5s1CqboSjXJEPJ&sig=z9t57A9xkbBz6w3Y
+### 1、skill技能
+
+该提示词skill已经制作成技能上架WorkBuddy，在技能中搜索“**AI图片写真**”安装技能。
+
+或者打开链接：[https://www.workbuddy.cn/share/asset?shareCode=PzbSpeot5s1CqboSjXJEPJ&sig=z9t57A9xkbBz6w3Y](https://www.workbuddy.cn/share/asset?shareCode=PzbSpeot5s1CqboSjXJEPJ&sig=z9t57A9xkbBz6w3Y)
+
+### 2、提示词版
+
+提示词版可以用于豆包、千问、trae、百度搭子等国产AI软件。
+
+提示词版见文章：[https://mp.weixin.qq.com/s/u89CoLpn81UoWWPvpLgayA](https://mp.weixin.qq.com/s/u89CoLpn81UoWWPvpLgayA)
+
+提示词版不适合直接用五官图片生成写真，需要使用生活照或艺术照做参考图。
+
+有了这个技能和提示词，大胆的发挥你的想象吧，让我们一起推速AI的发展。
